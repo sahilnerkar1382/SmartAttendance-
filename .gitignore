@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.dll
+*.dat
+.env
+.vscode
+.DS_store
+.streamlit/
+dist/
