@@ -1,5 +1,5 @@
 streamlit
-supabase==2.6.0
+supabase>=2.15.0,<3.0.0
 numpy
 pandas
 scikit-learn
