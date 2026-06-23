@@ -1,7 +1,4 @@
-import sys
-import os
 
-sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 import streamlit as st
 
 from src.screens.home_screen import home_screen
