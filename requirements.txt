@@ -11,5 +11,7 @@ bcrypt
 segno
 pillow
 librosa>=0.10.0
-resemblyzer
 numba>=0.51.0
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2+cpu
+resemblyzer
