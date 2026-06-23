@@ -1,5 +1,7 @@
 streamlit
 supabase>=2.15.0,<3.0.0
+librosa>=0.10.0          
+numba>=0.51.0           
 numpy
 pandas
 scikit-learn
@@ -10,5 +12,4 @@ setuptools<70.0.0
 bcrypt
 segno
 pillow
-librosa
 resemblyzer
